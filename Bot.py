@@ -50,6 +50,5 @@ async def pat(ctx):
 async def quote(ctx):
     await ctx.send(get_quote()) 
 
-keep_alive()
 bot.run(settings['token']) 
 
