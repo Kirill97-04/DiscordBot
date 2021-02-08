@@ -1,0 +1,3 @@
+python-discord bot
+
+requests~=2.25.1
